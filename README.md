@@ -54,5 +54,5 @@ O projeto é dividido em 4 classes principais localizadas no mesmo diretório:
 
 1. **Clonar ou baixar o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-   cd SEU-REPOSITORIO
+   git clone [https://github.com/pedroeberhardt/Trabalho-POO-Java.git](https://github.com/pedroeberhardt/Trabalho-POO-Java.git)
+   cd Trabalho-POO-Java
